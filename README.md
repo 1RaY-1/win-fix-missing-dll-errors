@@ -1,1 +1,5 @@
-If at trying to run a program on Windows you receive errors that say that your computer misses some api-ms dll files, you can try to move [this](https://github.com/1RaY-1/win-fix-missing-dll-errors/tree/main/dlls) files to `C:\Windows\System32`, to solve the errors. It worked for me on Windows 7.
+A simple solution to missing DLL files errors that worked for me.
+
+Just move [this](https://github.com/1RaY-1/win-fix-missing-dll-errors/tree/main/dlls) files to `C:\Windows\System32`, restart your pc and see if it solved the problem.
+
+If you think [this files](https://github.com/1RaY-1/win-fix-missing-dll-errors/tree/main/dlls) are viruses, just check them with an antivirus (but I checked them already).
